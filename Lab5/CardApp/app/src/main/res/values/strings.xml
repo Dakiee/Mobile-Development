@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardApp</string>
+    <string name="before">Өмнөх</string>
+    <string name="after">Дараа</string>
+    <string name="create">Нэмэх</string>
+    <string name="update">Шинэчлэх</string>
+    <string name="delete">Устгах</string>
+    <string name="english">English: </string>
+    <string name="mongolian">Mongolian: </string>
+</resources>

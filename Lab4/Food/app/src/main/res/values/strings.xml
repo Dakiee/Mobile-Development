@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="tolgoi_order_message">Та маханд дурлагсад  захиаллаа.</string>
+    <string name="tsuivan_order_message">Та  пөн пөн пицца захиаллаа.</string>
+    <string name="huushuur_order_message">Та бяслагтай пицца захиаллаа.</string>
+    <string name="order_label_text">Захиалга:</string>
+    <string name="note_label_text">Тэмдэглэл:</string>
+    <string name="name_label_text">Нэр</string>
+    <string name="enter_name_hint">Нэрээ оруулна уу.</string>
+    <string name="address_label_text">Хаяг</string>
+    <string name="enter_address_hint">Хаягаа оруулна уу.</string>
+    <string name="phone_label_string">Утасны дугаар</string>
+    <string name="enter_phone_hint">Утасны дугаараа оруулна уу.</string>
+    <string name="enter_note_hint">Тэмдэглэлээ оруулна уу</string>
+    <string name="choose_delivery_method">Хүлээн авах хэлбэрээ сонгоно уу.:</string>
+    <string name="same_day_messenger_service">Дуудлагаар хүргүүлэх</string>
+    <string name="next_day_ground_delivery">Маргааш хүргүүлэх</string>
+    <string name="pick_up">Очиж авах</string>
+    <string name="datepicker">Өдөр сонгох</string>
+    <string name="action_contact">Холбоо барих</string>
+    <string name="action_order">Захиалга</string>
+    <string name="action_status">Төлөв</string>
+    <string name="action_favorites">Дуртай</string>
+    <string name="action_status_message">Та төлөв хэсгийг сонголоо.</string>
+    <string name="action_favorites_message">Та дуртай хэсгийг сонголоо.</string>
+    <string name="action_contact_message">Та холбоо барих хэсгийг сонголоо.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

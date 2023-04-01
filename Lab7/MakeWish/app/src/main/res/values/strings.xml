@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MakeWish</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="channel_desc">Notifies at 11:11AM to make a wish!</string>
+    <string name="channel_name">Make a wish</string>
+    <string name="notify_title">Make A Wish</string>
+    <string name="notify_text">It is 15:15 AM</string>
+    <string name="toast_message">Toast message</string>
+    <string name="make_a_wish_using_calendar">Make a Wish Using Calendar</string>
+</resources>

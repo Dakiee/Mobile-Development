@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchedulerDownload</string>
+    <string name="download_now">Tatah</string>
+    <string name="channel_desc">Download notification</string>
+    <string name="channel_name">Download Notification</string>
+    <string name="notify_title">Performing Work</string>
+    <string name="notify_text">Download in Progress</string>
+    <string name="downloader_notification">Downloader Notification</string>
+</resources>

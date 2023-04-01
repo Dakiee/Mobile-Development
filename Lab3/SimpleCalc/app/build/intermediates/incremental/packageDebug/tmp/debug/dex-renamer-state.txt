@@ -1,0 +1,4 @@
+#Fri Mar 03 15:10:39 ULAT 2023
+base.0=C\:\\Dakie\\NUM's Lessons\\4th course Spring\\Mobile development\\Labs\\Lab3\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

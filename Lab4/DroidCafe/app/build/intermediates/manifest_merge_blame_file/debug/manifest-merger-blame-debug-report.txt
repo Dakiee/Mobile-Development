@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.droidcafeoptions"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:5:5-47:19
+12        android:allowBackup="true"
+12-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:12:9-22:20
+22            android:name="com.example.android.droidcafeinput.MainActivity"
+22-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:13:13-41
+23            android:exported="true"
+23-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:14:13-36
+24            android:label="@string/app_name"
+24-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:15:13-45
+25            android:theme="@style/AppTheme.NoActionBar" >
+25-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:16:13-56
+26            <intent-filter>
+26-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:18:17-69
+27-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:20:17-77
+29-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:23:9-30:20
+33            android:name="com.example.android.droidcafeinput.OrderActivity"
+33-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:24:13-42
+34            android:label="Order Activity"
+34-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:25:13-43
+35            android:parentActivityName="com.example.android.droidcafeinput.MainActivity" >
+35-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:26:13-55
+36            <meta-data
+36-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:27:13-29:49
+37                android:name="android.support.PARENT_ACTIVITY"
+37-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:28:17-63
+38                android:value=".MainActivity" />
+38-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:29:17-46
+39        </activity>
+40        <activity
+40-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:31:9-38:20
+41            android:name="com.example.android.droidcafeinput.InfoActivity"
+41-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:32:13-41
+42            android:label="Info Activity"
+42-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:33:13-42
+43            android:parentActivityName="com.example.android.droidcafeinput.MainActivity" >
+43-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:34:13-55
+44            <meta-data
+44-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:27:13-29:49
+45                android:name="android.support.PARENT_ACTIVITY"
+45-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:28:17-63
+46                android:value=".MainActivity" />
+46-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:29:17-46
+47        </activity>
+48        <activity
+48-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:39:9-46:20
+49            android:name="com.example.android.droidcafeinput.FavoriteActivity"
+49-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:40:13-45
+50            android:label="Fav Activity"
+50-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:41:13-41
+51            android:parentActivityName="com.example.android.droidcafeinput.MainActivity" >
+51-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:42:13-55
+52            <meta-data
+52-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:27:13-29:49
+53                android:name="android.support.PARENT_ACTIVITY"
+53-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:28:17-63
+54                android:value=".MainActivity" />
+54-->C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\DroidCafe\app\src\main\AndroidManifest.xml:29:17-46
+55        </activity>
+56
+57        <meta-data
+57-->[com.android.support:design:26.1.0] C:\Users\ldava\.gradle\caches\transforms-3\b78c63140a977d487b336f68b5a5499b\transformed\design-26.1.0\AndroidManifest.xml:26:9-28:38
+58            android:name="android.support.VERSION"
+58-->[com.android.support:design:26.1.0] C:\Users\ldava\.gradle\caches\transforms-3\b78c63140a977d487b336f68b5a5499b\transformed\design-26.1.0\AndroidManifest.xml:27:13-51
+59            android:value="26.1.0" />
+59-->[com.android.support:design:26.1.0] C:\Users\ldava\.gradle\caches\transforms-3\b78c63140a977d487b336f68b5a5499b\transformed\design-26.1.0\AndroidManifest.xml:28:13-35
+60        <meta-data
+60-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ldava\.gradle\caches\transforms-3\11bd74f736bb0e2a6bf716fcf6093b29\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+61            android:name="android.arch.lifecycle.VERSION"
+61-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ldava\.gradle\caches\transforms-3\11bd74f736bb0e2a6bf716fcf6093b29\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
+62            android:value="27.0.0-SNAPSHOT" />
+62-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\ldava\.gradle\caches\transforms-3\11bd74f736bb0e2a6bf716fcf6093b29\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+63    </application>
+64
+65</manifest>

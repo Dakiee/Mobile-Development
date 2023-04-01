@@ -1,0 +1,15 @@
+com.example.android.navdrawerexperiment.app-pngs-0 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\generated\res\pngs\debug
+com.example.android.navdrawerexperiment.app-resValues-1 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\generated\res\resValues\debug
+com.example.android.navdrawerexperiment.app-rs-2 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\generated\res\rs\debug
+com.example.android.navdrawerexperiment.app-mergeDebugResources-3 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.navdrawerexperiment.app-mergeDebugResources-4 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.navdrawerexperiment.app-merged_res-5 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\build\intermediates\merged_res\debug
+com.example.android.navdrawerexperiment.app-debug-6 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\src\debug\res
+com.example.android.navdrawerexperiment.app-main-7 C:\Dakie\NUM's Lessons\4th course Spring\Mobile development\Labs\Lab4\NavDrawer\app\src\main\res
+com.example.android.navdrawerexperiment.app-transition-27.1.1-8 C:\Users\ldava\.gradle\caches\transforms-3\1506ba5e128638d09cc83710ade4ec63\transformed\transition-27.1.1\res
+com.example.android.navdrawerexperiment.app-support-compat-27.1.1-9 C:\Users\ldava\.gradle\caches\transforms-3\3e47844b787101fcb82e64c55a22748a\transformed\support-compat-27.1.1\res
+com.example.android.navdrawerexperiment.app-recyclerview-v7-27.1.1-10 C:\Users\ldava\.gradle\caches\transforms-3\8cead8a3bec370c71bf73cb930310255\transformed\recyclerview-v7-27.1.1\res
+com.example.android.navdrawerexperiment.app-support-media-compat-27.1.1-11 C:\Users\ldava\.gradle\caches\transforms-3\9e508916d0d80ffb2ad6ebc389e95a87\transformed\support-media-compat-27.1.1\res
+com.example.android.navdrawerexperiment.app-design-27.1.1-12 C:\Users\ldava\.gradle\caches\transforms-3\bcc723a133813d2a12566209e4a439f4\transformed\design-27.1.1\res
+com.example.android.navdrawerexperiment.app-support-core-ui-27.1.1-13 C:\Users\ldava\.gradle\caches\transforms-3\c561027e8e78da26522171c10084be67\transformed\support-core-ui-27.1.1\res
+com.example.android.navdrawerexperiment.app-appcompat-v7-27.1.1-14 C:\Users\ldava\.gradle\caches\transforms-3\d8e44aeba048f5f9df172280b206ecad\transformed\appcompat-v7-27.1.1\res
